@@ -2,9 +2,11 @@
 Supply Chain Dashboard using power bi
 
 Overview
+
 This project presents a comprehensive supply chain management solution developed using Power BI.Leveraging real-world data, the dashboard offers deep insights into various facets of supply chain operations, including inventory management, sales analysis, and logistics optimization.
 
 Features of the dataset
+
 Product Type
 SKU
 Price
@@ -31,6 +33,7 @@ Costs
 
 
 Requirements
+
 What product category proves to be the most profitable in the overall revenue?
 How does the total revenue compare to the revenue generated specifically from skincare products?
 What insights can be drawn from the distribution of transportation modes?
@@ -41,12 +44,14 @@ How does the average lead time for delivery impact customer satisfaction and ope
 What strategic recommendations could be proposed based on the insights derived from this supply chain dashboard report?
 
 Steps to meet the requirements
+
 Data Understanding: Exploring the dataset to understand its structure and contents
 Data Preparation: Clean and preprocess the data to ensure it's ready for analysisby using power query and DAX
 Visualization: Create visualizations that highlight key findings in the data
 Report taking: Interpret the results of analysis and derive actionable insights that can inform decision-making in the healthcare domain
 
 Report
+
 Skincare emerges as the most lucrative product category, contributing significantly to the total revenue of ₹57,77,705, with skincare products alone accounting for ₹24,16,280.
 The total number of products sold amounted to 46,099 units.
 Roadways emerged as the primary mode of transportation, followed by seaways.
