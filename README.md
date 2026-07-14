@@ -27,6 +27,8 @@ Defect Rates
 Transportation Modes
 Routes
 Costs
+
+
 Requirements
 What product category proves to be the most profitable in the overall revenue?
 How does the total revenue compare to the revenue generated specifically from skincare products?
@@ -36,11 +38,13 @@ What patterns can be observed regarding the preferred transportation route?
 How does the overall satisfaction rate align with the set target, and what implications does this difference suggest?
 How does the average lead time for delivery impact customer satisfaction and operational efficiency?
 What strategic recommendations could be proposed based on the insights derived from this supply chain dashboard report?
+
 Steps to meet the requirements
 Data Understanding: Exploring the dataset to understand its structure and contents
 Data Preparation: Clean and preprocess the data to ensure it's ready for analysisby using power query and DAX
 Visualization: Create visualizations that highlight key findings in the data
 Report taking: Interpret the results of analysis and derive actionable insights that can inform decision-making in the healthcare domain
+
 Report
 Skincare emerges as the most lucrative product category, contributing significantly to the total revenue of ₹57,77,705, with skincare products alone accounting for ₹24,16,280.
 The total number of products sold amounted to 46,099 units.
