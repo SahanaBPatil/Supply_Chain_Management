@@ -7,28 +7,28 @@ This project presents a comprehensive supply chain management solution developed
 
 Features of the dataset
 
-Product Type
-SKU
-Price
-Availability
-Number of Products Sold
-Revenue Generated
-Customer Demographics
-Stock Levels
-Lead Times
-Order Quantities
-Shipping Times
-Shipping Carriers
-Shipping Costs
-Supplier Name
-Location
-Production Volumes
-Manufacturing Lead Time
-Manufacturing Costs
-Inspection Results
-Defect Rates
-Transportation Modes
-Routes
+Product Typel,
+SKU,
+Price,
+Availability,
+Number of Products Sold,
+Revenue Generated,
+Customer Demographics,
+Stock Levels,
+Lead Times,
+Order Quantities,
+Shipping Times,
+Shipping Carriers,
+Shipping Costs,
+Supplier Name,
+Location,
+Production Volumes,
+Manufacturing Lead Time,
+Manufacturing Costs,
+Inspection Results,
+Defect Rates,
+Transportation Modes,
+Routes,
 Costs
 
 
